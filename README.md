@@ -48,6 +48,10 @@ Ensure you have Python 3.8+ installed along with the following libraries:
 
 Bash
 pip install pandas numpy matplotlib scikit-learn
+
+
+<img width="1200" height="600" alt="image" src="https://github.com/user-attachments/assets/b9003b33-a25e-4c30-b149-cd3b9f72f500" />
+
 Execution
 Place holidays_events.csv and customer_support_tickets.csv in the project root.
 
